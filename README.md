@@ -1,1 +1,15 @@
 # CouponSystemPart1
+
+All usernames and password exist in the main method running, therefore, there is no need to add it here.
+
+1. Creating the database and tables
+I use the drop and create strategy on every application start running, in order to have a correct data on the database.
+
+2. Running job of removing expired coupons
+at the first running time the job will print zero record applied. after adding coupons i run sleep method in order to print  result of the job.
+
+3. Implementing all clients login and logic methos
+
+4. stoping the job
+
+5. close all db connections
