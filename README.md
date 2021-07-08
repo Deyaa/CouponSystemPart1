@@ -1,6 +1,10 @@
 # CouponSystemPart1
 
-All usernames and passwords exist in the main method, therefore, there is no need to add it here.
+* All usernames and passwords exist in the main method, therefore, there is no need to add it here.
+
+* To start the application you have to enter to the class and run the main method:
+src/main/java/com/bhp/playground/Program.java
+
 
 1. Creating the database and tables:
 
